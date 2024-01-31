@@ -1,0 +1,7 @@
+In todays Lab i Learned following git commands
+git clone -  to get repo from the web to our local server
+git log - to see the commits that we performed
+git add - to add a file to the repo tracking
+git commit - to commit a change
+git push - to push the change of local repo to github or remote repo
+git config - to config our email and user name to local server
