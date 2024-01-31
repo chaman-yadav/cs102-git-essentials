@@ -5,3 +5,6 @@ git add - to add a file to the repo tracking
 git commit - to commit a change
 git push - to push the change of local repo to github or remote repo
 git config - to config our email and user name to local server
+
+Summary
+git is version control tool used to keep the track of changes you made while making any project or assignment. In todays lecture first we config our username and email address with the mancurad git server so that we can connect our github account with the linux git local server. Then I make a repository in my github account and set it as public then in local git server using git clone command it copied the git repo to my git_projects folder in local machine then i made a empty file cs102-lecture-notes.txt in local machine and then add it to repo and then commit it. Then i push that commit to the git server and when i checked my github account there I can find the file i created then edited and add 7 lines to it. Now i am writing the summary here using vim in local machine and going to stage it.
